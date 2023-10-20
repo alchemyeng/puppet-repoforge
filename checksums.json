@@ -1,0 +1,10 @@
+{
+  "CHANGELOG.md": "6aa3ba8ba014da524ef29038463d52db",
+  "LICENSE": "25d3e06178b11a7b123c10703ad7baaf",
+  "README.md": "74155a541e508eb6c82af29f37c3e86f",
+  "files/RPM-GPG-KEY-rpmforge-dag": "b80e7aeda47581da87ee2bf53de12c57",
+  "manifests/init.pp": "3bd73b70d9085910ec6e197ac1223186",
+  "manifests/params.pp": "140d4648f4a0ce42a7c39f487b2280a2",
+  "manifests/rpm_gpg_key.pp": "ee879a6d3407c704faa3c07f9bf915c4",
+  "metadata.json": "45af04d877e0094834414cf834389658"
+}
